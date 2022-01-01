@@ -1,3 +1,7 @@
+body{font-family: sans-serif;
+               }
+
+
 .nav-bar { background-color: black;
            display: block ;
             position: fixed;
@@ -61,21 +65,22 @@ ul { list-style: none;
                width: 100%;
                  height: 100vh;
        background-color: none ;
-       background-image: linear-gradient( 180deg, red 50%, blue 100% ) ;
+       background-image: linear-gradient( 180deg, royalblue 50%, red 100% ) ;
         align-text: center;  
   
 }
 h1 { font-size: 6rem ; 
       font-weight: 700; 
-      align-text: center;
+      align: center;
      margin-block-start: 0.83em;
        margin-block-end: 0.83em;
+  
 }
             
 
 #welcome-section > div { font-size: 3rem;
                        font-weight: 200; 
                       font-style: Italic;  
-                       align-text: center;     
+                       align: center;     
                        valign: middle}
 
