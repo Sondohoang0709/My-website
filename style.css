@@ -19,10 +19,11 @@ size: 1.8rem;
 }
 .logo { flex: 1;
         font-size: 20px;
-       padding: 7.5px 10px 7.5px 0 ;            }
+       padding: 7.5px 10px 7.5px 0 ; }
 a { display: block; 
          padding: 15px 5px;   
-     color: white;           }
+     color: white;   
+        font-family: sans-serif;      }
 
 .item { order: 1;
         position: relative;
@@ -35,10 +36,17 @@ width: auto;
   display: block;
   padding: 9px 5px;
   
+  
 }
 .button-1 { background-color: royalblue;
             border: solid royalblue;        }
 .button-2 { background-color: black; 
             border: solid royalblue;             }
 * { box-sizing: inherit;       }
-ul { list-style: none;   } 
+ul { list-style: none;  
+      margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 40px;
+  
+} 
+
