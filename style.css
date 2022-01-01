@@ -1,4 +1,4 @@
-.header { background-color: black;
+.nav-bar { background-color: black;
            display: block ;
             position: fixed;
             width: 100%; 
@@ -9,3 +9,6 @@
   font-family: sans-serif ;  
 size: 1.8rem;
   weight: 400;              }
+.nav { display: flex;
+           
+}
