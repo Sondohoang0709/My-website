@@ -6,7 +6,7 @@ body{font-family: sans-serif;
 .nav-bar { background-color: black;
            display: block ;
             position: fixed;
-            width: 100%; 
+            width: 90%; 
             padding: 0 15px;   
             z-index: 10;
             top: 0;
@@ -19,7 +19,7 @@ font-size: 1.8rem;
 .nav { display: flex;
          align-item: flex-start;
          justify-content: center;
-           width: 100%;
+           width: 90%;
        
 }
 .logo { flex: 1;
@@ -69,8 +69,8 @@ ul { list-style: none;
        background-color: none ;
        background-image: linear-gradient( 180deg, royalblue 50%, red 100% ) ;
         align-text: center;  
-        left: 0;
-        right: 0;
+        margin-left: 0;
+        margin-right: 0;
 }
 h1 { font-size: 6rem ; 
       font-weight: 700; 
@@ -81,10 +81,10 @@ h1 { font-size: 6rem ;
      width:100%;             }
             
 
-#welcome-section > p { font-size: 3rem;
+#welcome-section > footer { font-size: 3rem;
                        font-weight: 200; 
                       font-style: Italic;  
                        text-align: center;     
-                       valign: middle;
+                        color: black;
                         width: 100%;          }
                      
