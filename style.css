@@ -30,4 +30,9 @@ a { display: block;
          padding: 10px; 
   }
 
-.item-button
+.item-button { order: 1;
+width: auto;
+  display: block;
+  padding: 9px 5px;
+  
+}
