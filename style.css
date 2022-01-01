@@ -1,5 +1,6 @@
 body{font-family: sans-serif;
-               }
+       line-height: 1.4;  
+     font-size: 1.8rem       }
 
 
 .nav-bar { background-color: black;
@@ -13,7 +14,7 @@ body{font-family: sans-serif;
 .font { color: white;  
   font-face: Roboto ; 
   font-family: sans-serif ;  
-size: 1.8rem;
+font-size: 1.8rem;
   weight: 400;              }
 .nav { display: flex;
          align-item: flex-start;
@@ -57,7 +58,8 @@ ul { list-style: none;
 } 
 .button-box { padding: 10px 15px;
               margin: 5px 0;       
-              font-family: sans-serif;          }
+              font-family: sans-serif; 
+               font-size: 1.8rem;          }
 
 #welcome-section { display: flex;
                     flex-direction: column;
@@ -78,7 +80,7 @@ h1 { font-size: 6rem ;
 }
             
 
-#welcome-section > div { font-size: 3rem;
+#welcome-section > p { font-size: 3rem;
                        font-weight: 200; 
                       font-style: Italic;  
                        align: center;     
