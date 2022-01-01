@@ -36,3 +36,9 @@ width: auto;
   padding: 9px 5px;
   
 }
+.button-1 { background-color: royalblue;
+            border: solid royalblue;        }
+.button-2 { background-color: black; 
+            border: solid royalblue;             }
+* { box-sizing: inherit;       }
+ul { list-style: none;   } 
