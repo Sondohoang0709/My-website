@@ -17,3 +17,13 @@ size: 1.8rem;
            width: 100%;
        
 }
+.logo { flex: 1;
+        font-size: 20px;
+       padding: 7.5px 10px 7.5px 0 ;            }
+a { display: block; 
+         padding: 15px 5px;     }
+
+.item { order: 1;
+        position: relative;
+         width: auto;
+         padding: 10px;            }
