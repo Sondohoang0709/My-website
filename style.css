@@ -126,8 +126,12 @@ a { color: white;  }
 img {display: block;
      size: 10px           }
 
-.final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  )           }
-
-.contact-links { display: flex;
+.final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  );
+               text-align: center;               }
+               color: white;
+.contact-links { display: grid;
                  text-align: center;
-                  justify-content: space-around;          }
+                  justify-content: space-around;    
+                  grid-template-columns: auto auto auto auto ;             }
+.contact-header { color: white;       }
+h2 { style: italics; }
