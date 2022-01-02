@@ -110,3 +110,7 @@ span{ color: black;  }
                  color: white ;
                    border-bottom: 0.2rem solid white;               }
 h2 { font-size: 4.2rem;   }
+.project-title { background-color: black;
+                 border-radius: 10px;
+                             }
+a { color: white;  }
