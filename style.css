@@ -127,12 +127,13 @@ img {display: block;
      size: 10px           }
 
 .final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  );
-               text-align: center;               }
-               color: white;
-.contact-links { display: grid;
-                 text-align: center;
-                  justify-content: space-around;    
-                  grid-template-columns: auto auto auto auto ;             }
+                          }
+color: white;}
+.contact-links { display: flex;
+                    justify-content: space-around ;
+                  flex-direction: center;    
+                   width="100%";
+                               }
 .contact-header { color: white;       }
 .contact-header > p { font-style: italic;        }
   .final { background-color: black; 
@@ -141,4 +142,4 @@ img {display: block;
               padding: 30px
                    }
 td { color: white;
-     font-size: 1.8rem;       }
+     font-size: 1.4rem;       }
