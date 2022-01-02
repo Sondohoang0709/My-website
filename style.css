@@ -92,7 +92,7 @@ h1 { font-size: 6rem ;
                         width: 100%;          }
 
 #project-grid { display: grid;
-               grid-template: auto/ auto auto auto ;
+               grid-template-columns: auto/ auto auto auto ;
                 grid-gap: 4rem;
                 width: 100%;
                 max-width: 1280px;
