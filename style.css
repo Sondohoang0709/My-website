@@ -47,7 +47,10 @@ width: auto;
             border: solid royalblue;        }
 .button-2 { background-color: black; 
             border: solid royalblue;             }
-* { box-sizing: inherit;       }
+* { box-sizing: border-box;  
+   margin: 0 ;
+   padding: 0;
+}
 ul { list-style: none;  
       margin-block-start: 1em;
   margin-block-end: 1em;
