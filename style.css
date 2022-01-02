@@ -93,3 +93,8 @@ h1 { font-size: 6rem ;
 }
                      
 span{ color: black;  }
+
+.project-content { text-align: center;
+                     padding: 10rem 2rem;
+                    
+}
