@@ -134,4 +134,11 @@ img {display: block;
                   justify-content: space-around;    
                   grid-template-columns: auto auto auto auto ;             }
 .contact-header { color: white;       }
-h2 { style: italics; }
+.contact-header > p { font-style: italic;        }
+  .final { background-color: black; 
+            display: flex; 
+             justify-content: space-between;
+              padding: 30px
+                   }
+td { color: white;
+     font-size: 1.8rem;       }
