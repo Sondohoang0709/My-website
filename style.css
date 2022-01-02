@@ -125,3 +125,7 @@ a { color: white;  }
                  object-fit: cover;        }
 img {display: block;
      size: 10px           }
+
+.final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  )           }
+
+.contact-links {            }
