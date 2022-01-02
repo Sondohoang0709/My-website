@@ -87,4 +87,8 @@ h1 { font-size: 6rem ;
                        text-align: center;     
                         color: black;
                         width: 100%;          }
+
+.project-grid { display: grid;
+                
+}
                      
