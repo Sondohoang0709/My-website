@@ -128,4 +128,6 @@ img {display: block;
 
 .final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  )           }
 
-.contact-links {            }
+.contact-links { display: flex;
+                 text-align: center;
+                  justify-content: space-around;          }
