@@ -119,8 +119,8 @@ h2 { font-size: 4.2rem;   }
                    
                   margin-bottom: 48.75px;                 }
 a { color: white;  }
-.image-project: { width: 10% ;
-                 object-fit: cover;        }
+.project-img: { width: 100% ;
+              object-fit: cover;        }
 
 
 .final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  );
