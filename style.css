@@ -116,14 +116,13 @@ span{ color: white;
 h2 { font-size: 4.2rem;   }
 .project-title { background-color: black;
                  border-radius: 10px;
-                   height: 339.19px;
                    width: 320px;
+                   height: 329px;
                   margin-bottom: 48.75px;                 }
 a { color: white;  }
-.project-img: { 
-              object-fit: cover; 
-                height: 234.19px;
-                  width: 320px;             }
+.project-img: { width: 320px;
+               height: 234.19px;
+                 object-fit: cover; width: 100%;         }
 
 
 .final-card { background-image: linear-gradient(180deg,  royalblue 50%, red 100%  );
